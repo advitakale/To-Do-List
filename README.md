@@ -13,5 +13,4 @@ Menu-driven interface ▶ Run the Program python todo.py
 "Task Name", "Status": "pending"} The menu runs in a loop and lets you
 manage tasks easily.
 
-📄 License Open-source under the MIT License. This is made by Vaishnavi
-Sen
+📄 License Open-source under the MIT License. This is made by Advita Kale
